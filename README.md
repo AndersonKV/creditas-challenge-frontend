@@ -21,7 +21,7 @@ Valor máximo da garantia: R$ 100.000.000,00;<br>
 
 Valor máximo para empréstimo: 80% do valor da garantia;
 
-Para instalar as dependencias basta baixar o projetos e na pasta raiz npm install ou yarn install
+Para instalar as dependencias basta baixar o projetos e na pasta raiz npm install ou yarn install e no fim yarn dev
 <br>
 <br>
 <img src="layout.jpg"/>
